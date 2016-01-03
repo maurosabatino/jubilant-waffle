@@ -6,3 +6,6 @@
   core: {}
   editor:
     invisibles: {}
+  minimap:
+    plugins:
+      pigments: true
